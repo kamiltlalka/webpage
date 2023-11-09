@@ -1,0 +1,39 @@
+.dotted{
+    background-image: url("../image/dots.png");
+    background-position: left top;
+    background-repeat: no-repeat;
+    width: 66vw;
+}
+.tria{
+    background-image: url("../image/tria.png");
+    background-position: left bottom;
+    background-repeat: no-repeat;
+    background-size: 400px;
+    width: 33vw;
+}
+.bigtextmain{
+    position:relative;
+    top: 20vh;
+    right: -40vh;
+    font-size:80px;
+}
+.smalltextmain{
+    float: left;
+    font-size:medium;
+    text-align: right;
+}
+.bottomtextmain{
+    font-size: 30px;
+    margin-left: 25vw;
+}
+.violet{
+    color:#7f01fe;
+}
+.containermain{
+    margin: 0;
+    height: 60vh;
+
+}
+.articlemain{
+    height: calc(100vh - 80px);
+}

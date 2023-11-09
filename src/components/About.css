@@ -1,0 +1,63 @@
+#abanchor{
+    position: relative;
+    top:-80px;
+}
+.articleabout{
+    min-height: calc(100vh - 80px);
+    background-image: url("../image/aboutbg.png");
+    background-size: 700px;
+    border-top: 3px solid gray;
+    border-bottom: 3px solid gray;
+}
+.containerabout{
+    min-height: 60vh;
+}
+
+.pinksq1{
+    background-color: pink;
+    border-top-left-radius: 50px;
+    max-width: 600px;
+    height: 300px;
+    padding-top: 30px;
+    padding-left: 30px;
+    font-weight: bolder;
+    font-size: x-large;
+    margin-left: 150px;
+    
+    -webkit-box-shadow: 32px 32px 0px -15px rgba(127, 1, 254, 1);
+    -moz-box-shadow: 32px 32px 0px -15px rgba(127, 1, 254, 1);
+    box-shadow: 32px 32px 0px -15px rgba(127, 1, 254, 1);
+}
+.pinksq1 > p{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: large;
+    margin-right: 20px;
+}
+
+
+.violsq1{
+    
+    margin:0 auto;
+    margin-right: 150px;
+    background-color: rgba(127, 1, 254, 1);
+    border-top-left-radius: 50px;
+    max-width: 600px;
+    height: 300px;
+    padding-top: 30px;
+    padding-left: 30px;
+    font-weight: bolder;
+    font-size: x-large;
+    
+    -webkit-box-shadow: 32px 32px 0px -15px pink;
+    -moz-box-shadow: 32px 32px 0px -15px pink;
+    box-shadow: 32px 32px 0px -15px pink;
+}
+
+.violsq1 > p{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: large;
+    margin-right: 20px;
+}
+

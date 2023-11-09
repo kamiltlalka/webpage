@@ -1,0 +1,39 @@
+.articleprojects{
+    min-height: calc(100vh - 80px);
+    background: rgb(37,1,36);
+    background: linear-gradient(180deg, rgba(37,1,36,1) 0%, rgba(34,4,31,1) 51%, rgba(28,28,28,1) 100%);
+}
+.topsection{
+    padding-top: 20px;
+    font-size: 55px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.projectframe{
+    width: 300px;
+    height: 450px;
+    border: 6px solid #7f01fe;
+    border-radius: 40px;
+    background-color: #20202048;
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+.projectframe > img{
+    max-height: 200px;
+    max-width: 270px;
+
+}
+
+.projecttext{
+    max-width: 280px;
+    margin-top: 20px;
+}
+#pranchor{
+    position: relative;
+    top:-80px;
+}
