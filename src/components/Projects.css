@@ -22,11 +22,10 @@
     margin-right: 50px;
 
 }
-
 .projectframe > img{
     max-height: 200px;
-    max-width: 270px;
-
+    max-width: 250px;
+    border-radius: 30px;
 }
 
 .projecttext{

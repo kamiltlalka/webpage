@@ -19,7 +19,7 @@ export default function NavBar() {
                 About
             </div></a>
 
-            <a href="#articlemain"><div className="element_nav">
+            <a href="#cnanchor"><div className="element_nav">
                 Contact
             </div></a>
         </div>
