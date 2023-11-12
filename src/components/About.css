@@ -14,7 +14,7 @@
 }
 
 .pinksq1{
-    background-color: pink;
+    background-color: #F20DF0;
     border-top-left-radius: 50px;
     max-width: 600px;
     height: 300px;
@@ -50,9 +50,9 @@
     font-weight: bolder;
     font-size: x-large;
     
-    -webkit-box-shadow: 32px 32px 0px -15px pink;
-    -moz-box-shadow: 32px 32px 0px -15px pink;
-    box-shadow: 32px 32px 0px -15px pink;
+    -webkit-box-shadow: 32px 32px 0px -15px #F20DF0;
+    -moz-box-shadow: 32px 32px 0px -15px #F20DF0;
+    box-shadow: 32px 32px 0px -15px #F20DF0;
 }
 
 .violsq1 > p{
