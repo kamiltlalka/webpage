@@ -10,8 +10,8 @@ export default function MainBlock() {
 
         <div className="bigtextmain">
           <div className="smalltextmain"> <br/>With <br/>passion and <br/>innovation</div>     
-            Profesionall Web Developer <br/>
-           <b>and  <span className="violet">Software Enginieer </span></b>
+          Professional Web Developer <br/>
+           <b>and  <span className="violet">Software Engineer </span></b>
         </div>
 
         
@@ -26,7 +26,7 @@ export default function MainBlock() {
       </div>
 
       <div className="bottomtextmain">
-        Designing and producing proffesionall and innovative <br/> software for you and your company
+        Designing and producing professional and innovative <br/> software for you and your company
       </div>
 
     </article>
