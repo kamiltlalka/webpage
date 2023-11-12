@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/webpage/static/css/main.6615d6ba.css",
-    "main.js": "/webpage/static/js/main.cf37abd2.js",
+    "main.css": "/webpage/static/css/main.90e67119.css",
+    "main.js": "/webpage/static/js/main.9fb6cd78.js",
     "static/js/787.deb670fb.chunk.js": "/webpage/static/js/787.deb670fb.chunk.js",
     "static/media/UnityGame.png": "/webpage/static/media/UnityGame.faca859fd3ba8854beb9.png",
     "static/media/CNC.png": "/webpage/static/media/CNC.84f53c20ae346f25c9c7.png",
@@ -13,12 +13,12 @@
     "static/media/tiande.png": "/webpage/static/media/tiande.4afd8b0980064d4f5409.png",
     "static/media/asm.png": "/webpage/static/media/asm.5c74376a67c65f939d23.png",
     "index.html": "/webpage/index.html",
-    "main.6615d6ba.css.map": "/webpage/static/css/main.6615d6ba.css.map",
-    "main.cf37abd2.js.map": "/webpage/static/js/main.cf37abd2.js.map",
+    "main.90e67119.css.map": "/webpage/static/css/main.90e67119.css.map",
+    "main.9fb6cd78.js.map": "/webpage/static/js/main.9fb6cd78.js.map",
     "787.deb670fb.chunk.js.map": "/webpage/static/js/787.deb670fb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6615d6ba.css",
-    "static/js/main.cf37abd2.js"
+    "static/css/main.90e67119.css",
+    "static/js/main.9fb6cd78.js"
   ]
 }
