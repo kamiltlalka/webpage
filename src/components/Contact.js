@@ -4,7 +4,7 @@ import Linkedin from '../image/linkedin-3-32.png'
 import Github from '../image/github-8-32.png'
 import Mail from '../image/mail-32.png'
 import Phone from '../image/mobile-phone-8-32.png'
-
+import Kamil from '../image/kamil.png'
 
 function Contacts({content, linkurl, image}){
 
@@ -43,7 +43,7 @@ export default function Contact() {
 
     </div >
 
-        <div className="container">
+        <div className="container contactscontainer">
             <div className="row align-items-center">
                 <Contacts content={"LinkedIn"} linkurl = {"https://www.linkedin.com/in/kamil-tla%C5%82ka-b13012259/"} image={Linkedin}/>
             </div>
@@ -57,7 +57,7 @@ export default function Contact() {
                 <Contacts content={"+48 664792420"} linkurl = {""} image={Phone}/>
             </div>
         </div>
-        
+        <img className="Contactlogo" src={Kamil} alt="logo"/>
 
     </article>
   )

@@ -34,7 +34,59 @@
     font-size: 20px;
 }
 
+.Contactlogo
+{
+    margin-left: 5vw;
+    height: 300px;
+    display: block;
+    float: left;
+}
+
+.contactscontainer
+{
+    margin-left: 20vw;
+    width: 30vw;
+    float: left;
+}
+
 #pranchor{
     position: relative;
     top:-80px;
 }
+@media (max-width: 1200px) {
+    .Contactlogo
+    {
+        height: 200px;
+    }
+    
+    .contactscontainer
+    {
+        margin-left: 10vw;
+        width: 40vw;
+    }
+
+  }
+
+  @media (max-width: 820px) {
+    .Contactlogo
+    {
+        width: 50vw;
+        height: unset;
+        margin-left: 25vw;
+        float:unset;
+    }
+    
+    .contactscontainer
+    {
+        margin-left: 20vw;
+        width: 80vw;
+        float:unset;
+    }
+
+    .articlecontact
+    {
+        text-align: center;
+
+    }
+
+  }
