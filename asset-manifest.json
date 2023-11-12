@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/webpage/static/css/main.78b4926c.css",
-    "main.js": "/webpage/static/js/main.4c3f809a.js",
+    "main.css": "/webpage/static/css/main.0501f5db.css",
+    "main.js": "/webpage/static/js/main.dc6fe028.js",
     "static/js/787.deb670fb.chunk.js": "/webpage/static/js/787.deb670fb.chunk.js",
     "static/media/UnityGame.png": "/webpage/static/media/UnityGame.faca859fd3ba8854beb9.png",
     "static/media/CNC.png": "/webpage/static/media/CNC.84f53c20ae346f25c9c7.png",
@@ -10,15 +10,16 @@
     "static/media/dots.png": "/webpage/static/media/dots.7607aa9b3b1823a59985.png",
     "static/media/aboutbg.png": "/webpage/static/media/aboutbg.db817c1b8919fc79ec05.png",
     "static/media/pixel.png": "/webpage/static/media/pixel.968d2168868ea91c9e0d.png",
+    "static/media/kamil.png": "/webpage/static/media/kamil.bb2e85a90d6f155aa3b0.png",
     "static/media/tiande.png": "/webpage/static/media/tiande.4afd8b0980064d4f5409.png",
     "static/media/asm.png": "/webpage/static/media/asm.5c74376a67c65f939d23.png",
     "index.html": "/webpage/index.html",
-    "main.78b4926c.css.map": "/webpage/static/css/main.78b4926c.css.map",
-    "main.4c3f809a.js.map": "/webpage/static/js/main.4c3f809a.js.map",
+    "main.0501f5db.css.map": "/webpage/static/css/main.0501f5db.css.map",
+    "main.dc6fe028.js.map": "/webpage/static/js/main.dc6fe028.js.map",
     "787.deb670fb.chunk.js.map": "/webpage/static/js/787.deb670fb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78b4926c.css",
-    "static/js/main.4c3f809a.js"
+    "static/css/main.0501f5db.css",
+    "static/js/main.dc6fe028.js"
   ]
 }
