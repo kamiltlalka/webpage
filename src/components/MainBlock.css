@@ -37,3 +37,45 @@
 .articlemain{
     height: calc(100vh - 80px);
 }
+
+@media (max-width: 1350px) {
+
+    .bigtextmain{
+        position:relative;
+        top: 20vh;
+        right: -15vw;
+        font-size:5vw;
+    }
+    .smalltextmain{
+        position: relative;
+        top:-20px;
+        float: left;
+        font-size:2.5vw;
+        text-align: right;
+    }
+    .bottomtextmain{
+        font-size: 3vw;
+        margin-left: 15vw;
+    }
+    .tria{
+        display: none;
+    }
+
+  }
+
+  @media (max-width: 700px) {
+    .articlemain{
+        height: calc(70vh - 80px);
+    }
+    .bottomtextmain{
+        position:relative;
+        top:-15vh;
+    }
+    .bigtextmain{
+        font-size:25px;
+    }
+    .smalltextmain{
+        top:-10px;
+        font-size:9px;
+    }
+  }

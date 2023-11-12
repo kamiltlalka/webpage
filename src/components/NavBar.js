@@ -2,9 +2,9 @@ import React from 'react'
 import './NavBar.css'
 import logo from '../image/logo.png'
 export default function NavBar() {
-  return (
+  return (<>
 
-    <header className="d-flex flex-row justify-content-between sticky-top">
+    <header className="d-flex flex-row justify-content-between sticky-top desktop">
         <div className="logo_nav">
             <img src={logo} alt="logo"/>
         </div>
@@ -24,7 +24,13 @@ export default function NavBar() {
             </div></a>
         </div>
     </header>
+
+    <header className="sticky-top mobile">
+    <div className="logo_nav">
+            <img src={logo} alt="logo"/>
+        </div>
+    </header>
     
 
-  )
+  </>)
 }

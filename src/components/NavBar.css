@@ -28,7 +28,28 @@ a:hover{
     all: unset;
 }
 
+.mobile{
+    display: none;
+}
+
 .logo_nav{
     padding: 20px;
 }
+@media (max-width: 700px) {
+    .desktop{
+        display: none !important;
+    }
+    .mobile{
+        display: block;
+    }
+    
+  }
+@media (max-width: 1350px) {
+    header{
+        padding-right: 0px;
+        height: 80px;
+        background-color: #1c1c1c;
+    }
 
+
+  }

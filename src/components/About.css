@@ -44,6 +44,7 @@
     border-top-left-radius: 50px;
     max-width: 600px;
     height: 300px;
+    margin-top: 40px;
     padding-top: 30px;
     padding-left: 30px;
     font-weight: bolder;
@@ -61,3 +62,25 @@
     margin-right: 20px;
 }
 
+@media (max-width: 700px) {
+    .pinksq1{
+        max-width: 1000px;
+        height: auto;
+        min-height: 300px;
+        padding-top: 30px;
+        padding-left: 30px;
+        font-weight: bolder;
+        font-size: x-large;
+        margin-left: 0px;
+    }
+
+    .violsq1{
+
+        margin-right: 0px;
+        border-top-left-radius: 50px;
+        max-width: 600px;
+        height: auto;
+        min-height: 300px;
+
+    }
+  }
